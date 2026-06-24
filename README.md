@@ -11,13 +11,11 @@ En recherche d'alternance en IA / Data.
 ## Stack technique
 
 **Langages**
-Python · SQL · PHP · HTML / CSS · Java · C
+Python · SQL · PHP · HTML / CSS 
 
 **Data & Machine Learning**
 Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow · PyTorch · Jupyter
 
-**NLP**
-TF-IDF · Naive Bayes · API Claude (Anthropic)
 
 **Reseaux & Telecom**
 TCP/IP · BGP · MPLS · 4G/5G · VoIP · QoS · Fibre optique · Wireshark · Cisco Packet Tracer
